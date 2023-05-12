@@ -1,2 +1,2 @@
-# NUSchedule
+# NUSova
 BenandJenna
